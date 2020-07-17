@@ -52,6 +52,11 @@
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650658/GitHub/react-native-logo-collection.jpg"
       width="24%"
     />
+    <img
+      alt="React Native Boilerplate - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1548862588/react-native-boilerplate.jpg"
+      width="24%"
+    />
   </div>
 </div>
 
