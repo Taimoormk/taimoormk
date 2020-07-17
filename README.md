@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Taimoormk's github stats](https://github-readme-stats.vercel.app/api?username=taimoormk)](https://github.com/taimoormk/github-readme-stats)
+[![Taimoormk's github stats](https://github-readme-stats.vercel.app/api?username=taimoormk)](https://github.com/taimoormk/github-readme-stats&show_icons=true)
 
 <!--
 **Taimoormk/taimoormk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
