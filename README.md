@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex-basis: 45%">
+  <div style="flex-basis: 48%">
     <h3>React Web Open Source</h3>
     <img
       alt="React Commons Collection - React Pakistan"
@@ -13,8 +13,13 @@
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566355010/GitHub/react-ui-collection.jpg"
       width="100%"
     />
+    <img
+      alt="React Icon Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499955/GitHub/react-icons-collection.jpg"
+      width="100%"
+    />
   </div>
-  <div style="flex-basis: 45%">
+  <div style="flex-basis: 48%">
     <h3>React Native Open Source</h3>
     <img
       alt="React Native Commons Collection - React Pakistan"
@@ -24,6 +29,11 @@
     <img
       alt="React Native UI Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650649/GitHub/react-native-ui-collection.jpg"
+      width="100%"
+    />
+    <img
+      alt="React Native Icon Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650647/GitHub/react-native-icon-collection.jpg"
       width="100%"
     />
   </div>
