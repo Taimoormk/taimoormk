@@ -18,6 +18,11 @@
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499955/GitHub/react-icons-collection.jpg"
       width="100%"
     />
+    <img
+      alt="React Logo Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499957/GitHub/react-logo-collection.jpg"
+      width="100%"
+    />
   </div>
   <div style="flex-basis: 48%">
     <h3>React Native Open Source</h3>
@@ -34,6 +39,11 @@
     <img
       alt="React Native Icon Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650647/GitHub/react-native-icon-collection.jpg"
+      width="100%"
+    />
+    <img
+      alt="React Native Logo Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650658/GitHub/react-native-logo-collection.jpg"
       width="100%"
     />
   </div>
