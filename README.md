@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-<div>
-  <left>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex-basis: 45%">
     <h3>React Web Open Source</h3>
-  </left>
-  <right>
-    <h3>React Web Open Source</h3>
-  </right>
+    <img src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566355017/GitHub/react-commons-collection.jpg" width="100%">
+  </div>
+  <div style="flex-basis: 45%">
+    <h3>React Native Open Source</h3>
+    <img src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650645/GitHub/react-native-commons-collection.jpg" width="100%">
+  </div>
 </div>
 
 [![Taimoormk's github stats](https://github-readme-stats.vercel.app/api?username=taimoormk&show_icons=true)](https://github.com/taimoormk/github-readme-stats)
