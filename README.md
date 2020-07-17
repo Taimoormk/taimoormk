@@ -3,11 +3,29 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex-basis: 45%">
     <h3>React Web Open Source</h3>
-    <img src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566355017/GitHub/react-commons-collection.jpg" width="100%">
+    <img
+      alt="React Commons Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566355017/GitHub/react-commons-collection.jpg"
+      width="100%"
+    />
+    <img
+      alt="React UI Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1566355010/GitHub/react-ui-collection.jpg"
+      width="100%"
+    />
   </div>
   <div style="flex-basis: 45%">
     <h3>React Native Open Source</h3>
-    <img src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650645/GitHub/react-native-commons-collection.jpg" width="100%">
+    <img
+      alt="React Native Commons Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650645/GitHub/react-native-commons-collection.jpg"
+      width="100%"
+    />
+    <img
+      alt="React Native UI Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1583650649/GitHub/react-native-ui-collection.jpg"
+      width="100%"
+    />
   </div>
 </div>
 
