@@ -29,6 +29,11 @@
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1567499957/GitHub/react-logo-collection.jpg"
       width="24%"
     />
+    <img
+      alt="React Emoji Collection - React Pakistan"
+      src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1592815676/GitHub/react-emoji-collection.jpg"
+      width="24%"
+    />
   </div>
   <div>
     <h3>React Native Open Source</h3>
