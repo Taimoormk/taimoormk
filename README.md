@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Taimoor Khan - Senior Software Engineer
+
+- 🔭 I’m currently working on enterprise apps of ReactJS & React Native
+- 👯 I’m looking to collaborate on ReactPakistan - an open source platform
+- 💬 Ask me about #MicroFrontend #OpenSource #TypeScript #React #ReactNative
+- 📫 How to reach me: https://taimoor.io
 
 <div>
   <h2>React Pakistan</h3>
