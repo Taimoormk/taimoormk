@@ -1,9 +1,13 @@
 ### Hi there 👋 I am Taimoor Khan - Senior Software Engineer
 
 - 🔭 I’m currently working on enterprise apps of ReactJS & React Native
-- 👯 I’m looking to collaborate on ReactPakistan - an open source platform
+- 👯 I’m looking to collaborate on [ReactPakistan](https://github.com/react-pakistan) - an open source platform
 - 💬 Ask me about #MicroFrontend #OpenSource #TypeScript #React #ReactNative
-- 📫 How to reach me: https://taimoor.io
+- 📫 How to reach me: [Portfolio](https://taimoor.io)
+- 😄 Pronouns: Him, His
+- ⚡ Fun fact: That tiny pocket in jeans was designed to store pocket watches.
+
+![](https://komarev.com/ghpvc/?username=Taimoormk)
 
 <div>
   <h2>React Pakistan</h3>
