@@ -7,7 +7,7 @@
 - 😄 Pronouns: Him, His
 - ⚡ Fun fact: That tiny pocket in jeans was designed to store pocket watches.
 
-![](https://komarev.com/ghpvc/?username=Taimoormk)
+![Profile Views](https://komarev.com/ghpvc/?username=Taimoormk)
 
 <div>
   <h2>React Pakistan</h3>
