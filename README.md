@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on [ReactPakistan](https://github.com/react-pakistan) - an open source platform
 - 💬 Ask me about #MicroFrontend #OpenSource #TypeScript #React #ReactNative
 - 📫 How to reach me: [Portfolio](https://taimoor.io)
-- 😄 Pronouns: Him, His
 - ⚡ Fun fact: That tiny pocket in jeans was designed to store pocket watches.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Taimoormk)
