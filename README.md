@@ -91,6 +91,4 @@
 
 [![Taimoormk's github stats](https://github-readme-stats.vercel.app/api?username=taimoormk&show_icons=true)](https://github.com/Taimoormk/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taimoormk)](https://github.com/Taimoormk/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taimoormk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
