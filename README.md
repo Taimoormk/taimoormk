@@ -24,27 +24,27 @@
     <img
       alt="React Commons Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1671950783/React%20Pakistan/react-commons-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React UI Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1671950784/React%20Pakistan/react-ui-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React Icon Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1671950784/React%20Pakistan/react-icon-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React Logo Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1671950784/React%20Pakistan/react-logo-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React Emoji Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1671950784/React%20Pakistan/react-emoji-collection.jpg"
-      width="24%"
+      width="49%"
     />
   </div>
   <div>
@@ -52,32 +52,32 @@
     <img
       alt="React Native Commons Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1672213225/React%20Pakistan/react-native-commons-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React Native UI Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1672213225/React%20Pakistan/react-native-ui-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React Native Icon Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1672213225/React%20Pakistan/react-native-icon-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React Native Logo Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1672213225/React%20Pakistan/react-native-logo-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React Native Logo Collection - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1672213225/React%20Pakistan/react-native-emoji-collection.jpg"
-      width="24%"
+      width="49%"
     />
     <img
       alt="React Native Boilerplate - React Pakistan"
       src="https://res.cloudinary.com/dq6hflqwx/image/upload/v1548862588/react-native-boilerplate.jpg"
-      width="24%"
+      width="49%"
     />
   </div>
 </div>
